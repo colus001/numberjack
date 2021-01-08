@@ -1,6 +1,6 @@
 {
   "name": "numberjack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Read number for human to understand easier",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
