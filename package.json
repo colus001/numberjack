@@ -1,6 +1,6 @@
 {
   "name": "numberjack",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Read number for human to understand easier",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,7 +8,7 @@
     "test": "jest",
     "build": "tsc",
     "prebuild": "rm -rf dist",
-    "release": "standard-version"
+    "release": "npx standard-version"
   },
   "repository": {
     "type": "git",
